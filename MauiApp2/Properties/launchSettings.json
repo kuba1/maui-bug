@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Executable": {
+      "commandName": "Executable",
+      "executablePath": ".\\MauiApp2.exe"
+    }
+  }
+}
